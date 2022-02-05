@@ -21,8 +21,6 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/fgq2KGE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 
 ![Ejave0Zka0](https://user-images.githubusercontent.com/50154289/152658732-e0c7f2ad-4e7a-46a7-aad8-daa2e2b9e42f.gif)
 
@@ -32,7 +30,7 @@ GIF created with Recordit
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Rogelio Lopez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
