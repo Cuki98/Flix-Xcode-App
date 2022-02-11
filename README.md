@@ -16,17 +16,19 @@ The following **required** functionality is complete:
 *`User can view and scroll through a list of movies now playing in theaters.
 * User can view the movie posters in each row.
 * The following **optional** features are implemented:
+* User can tap a cell to see more details about a particular movie.
+* User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-
 ![Ejave0Zka0](https://user-images.githubusercontent.com/50154289/152658732-e0c7f2ad-4e7a-46a7-aad8-daa2e2b9e42f.gif)
 
+![ZG1d8ORRW4](https://user-images.githubusercontent.com/50154289/153539367-ab466b7e-c412-47ab-a625-6eaeb2307ebb.gif)
+
 GIF created with Recordit
-
-
 
 ## License
 
