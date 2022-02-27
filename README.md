@@ -28,6 +28,8 @@ Here's a walkthrough of implemented user stories:
 
 ![ZG1d8ORRW4](https://user-images.githubusercontent.com/50154289/153539367-ab466b7e-c412-47ab-a625-6eaeb2307ebb.gif)
 
+![gifff2](https://user-images.githubusercontent.com/50154289/155868306-f192e635-559a-4651-8344-38589a22b607.gif)
+
 GIF created with Recordit
 
 ## License
